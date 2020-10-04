@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="orange">#f5a01a</color>
+    <color name="lightGrey">#878889</color>
+    <color name="darkBlack">#6e7071</color>
+    <color name="darkGrey">#5f6161</color>
+    <color name="grey">#606164</color>
+
+    <!--Naranja: #f5a01a
+    Boton gris claro: #878889
+    Boton negro oscuro: #6e7071
+    Fondo resultados: #5f6161
+    Bordes: #606164-->
+</resources>
